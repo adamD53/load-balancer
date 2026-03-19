@@ -1,9 +1,0 @@
-# ninja log v6
-4	1289	7956483676241058	CMakeFiles/LoadBalancer.dir/main.cpp.obj	6d9084aa6c3308e1
-1291	3587	7956483689094374	LoadBalancer.exe	c165d30a6a782ec1
-23	5423	7956487007343853	CMakeFiles/LoadBalancer.dir/main.cpp.obj	6d9084aa6c3308e1
-5429	7338	7956487061406731	LoadBalancer.exe	c165d30a6a782ec1
-34	5387	7956489942502670	CMakeFiles/LoadBalancer.dir/main.cpp.obj	6d9084aa6c3308e1
-5388	7317	7956489996042206	LoadBalancer.exe	c165d30a6a782ec1
-31	5383	7956490354352624	CMakeFiles/LoadBalancer.dir/main.cpp.obj	6d9084aa6c3308e1
-5384	7193	7956490407887620	LoadBalancer.exe	c165d30a6a782ec1
